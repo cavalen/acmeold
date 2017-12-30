@@ -33,7 +33,7 @@
 			<p>
 				<br>
 				<img src="http://i.imgur.com/qepuXNs.gif" alt="Funcionaaaaaa !!!">
-                                <h1> Websever is Working !!!!!</h1>
+                                <h1> Webserver is Working !!!!!</h1>
 				<br>
 			</p>
 			<p> 
