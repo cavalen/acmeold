@@ -41,8 +41,10 @@
 			</p>
 			<p>
 				<?php
-                    		$output = shell_exec('ifconfig ens33');
-                   		echo "<pre>$output</pre>";
+                    		//$output = shell_exec('ifconfig ens33');
+				//$output = shell_exec('ifconfig eth0');
+                   		$output = shell_exec('ifconfig eth0 | grep 'inet addr' | cut -d: -f2 | awk '{print $1}'');
+				echo "<pre>$output</pre>";
                 		?>
 			</p>
 		</div>
