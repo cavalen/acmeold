@@ -20,7 +20,7 @@
 	<div id="page">
 		<div id="logo">
 			<h1><a href="/internal/" id="logoLink">Test Website</a></h1>
-			<img src="https://vignette.wikia.nocookie.net/looneytunes/images/5/56/Comp_2.jpg">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Acme-corp.png">
 		</div>
 		<div id="nav">
 			<ul>
