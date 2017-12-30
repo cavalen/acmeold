@@ -20,6 +20,7 @@
 	<div id="page">
 		<div id="logo">
 			<h1><a href="/internal/" id="logoLink">Test Website</a></h1>
+			<img src="https://vignette.wikia.nocookie.net/looneytunes/images/5/56/Comp_2.jpg">
 		</div>
 		<div id="nav">
 			<ul>
@@ -33,7 +34,6 @@
 			<p>
 				<br>
 				<img src="http://i.imgur.com/qepuXNs.gif" alt="Funcionaaaaaa !!!">
-				<img src="https://vignette.wikia.nocookie.net/looneytunes/images/5/56/Comp_2.jpg">
                                 <h1> Webserver is Working !!!!!</h1>
 				<br>
 			</p>
