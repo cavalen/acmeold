@@ -20,7 +20,7 @@
 	<div id="page">
 		<div id="logo">
 			<h1><a href="/internal/" id="logoLink">Test Website</a></h1>
-			<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Acme-corp.png">
+			<img src="http://care.air.acmelatam.com/aalogo.png">
 		</div>
 		<div id="nav">
 			<ul>
