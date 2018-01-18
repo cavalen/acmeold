@@ -4,7 +4,7 @@
 
 <!-- your webpage info goes here -->
 
-    <title>Test Website</title>
+    <title>Acme Airlines - Test Website</title>
 	
 	<meta name="author" content="your name" />
 	<meta name="description" content="" />
@@ -19,7 +19,7 @@
 
 	<div id="page">
 		<div id="logo">
-			<h1><a href="/internal/" id="logoLink">Test Website</a></h1>
+			<h1><a href="/internal/" id="logoLink">Acme Airlines - Test Website</a></h1>
 			<img src="http://care.air.acmelatam.com/aalogo.png">
 		</div>
 		<div id="nav">
