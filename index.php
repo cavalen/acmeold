@@ -47,7 +47,7 @@
 		</div>
 		<div id="footer">
 			<p>
-				Webpage made by <a href="/" target="_blank">[HAND]</a>
+				Webpage made by <a href="/" target="_blank">[ACME]</a>
 			</p>
 		</div>
 	</div>
