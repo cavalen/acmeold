@@ -38,15 +38,10 @@
 				<br>
 			</p>
 			<p> 
+				<font size="4" color="blue">
 				... And my IP Address is: 
-			</p>
-			<p>
-				<?php
-                    		//$output = shell_exec('ifconfig ens33');
-				//$output = shell_exec('ifconfig eth0');
-                   		$output = shell_exec('ifconfig eth0 | grep \'inet addr\' | cut -d: -f2 | awk \'{print $1}\'');
-				echo "<pre>$output</pre>";
-                		?>
+				<?php echo gethostname(); ?>
+				</font>
 			</p>
 		</div>
 		<div id="footer">
