@@ -39,7 +39,7 @@
 			</p>
 			<p> 
 				<font size="4" color="blue">
-				... And my Hostname is: <br>
+				... And my Hostname is: <br><br>
 				<?php echo gethostname(); ?>
 				</font>
 			</p>
