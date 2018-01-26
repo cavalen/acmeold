@@ -20,7 +20,7 @@
 	<div id="page">
 		<div id="logo">
 			<h1><a href="/internal/" id="logoLink">Acme Airlines - Test Website</a></h1>
-			<img src="http://care.air.acmelatam.com/aalogo.png">
+			<!-- <img src="http://care.air.acmelatam.com/aalogo.png"> -->
 		</div>
 		<div id="nav">
 			<ul>
@@ -33,7 +33,8 @@
 			<h2>Home</h2>
 			<p>
 				<br>
-				<img src="http://i.imgur.com/qepuXNs.gif" alt="Funcionaaaaaa !!!">
+				<!-- <img src="http://i.imgur.com/qepuXNs.gif" alt="Funcionaaaaaa !!!"> -->
+				<img src="http://care.air.acmelatam.com/aalogo.png" alt="Funcionaaaaaa !!!">
                                 <h1> Webserver is Working !!!!!</h1>
 				<br>
 			</p>
