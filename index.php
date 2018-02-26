@@ -33,7 +33,7 @@
 			<h2>Home</h2>
 			<p>
 				<br>
-				<!-- <img src="http://i.imgur.com/qepuXNs.gif" alt="Funcionaaaaaa !!!"> -->
+				<img src="http://i.imgur.com/qepuXNs.gif" alt="Funcionaaaaaa !!!">
 				<img src="http://care.air.acmelatam.com/aalogo.png" alt="Funcionaaaaaa !!!">
                                 <h1> Webserver is Working !!!!!</h1>
 				<br>
